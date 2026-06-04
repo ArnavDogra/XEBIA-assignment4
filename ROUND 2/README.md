@@ -68,11 +68,13 @@ npm run dev
 
 ### Login Page
 
-(Add screenshot)
+<img width="940" height="791" alt="image" src="https://github.com/user-attachments/assets/644cedb6-a8d2-4841-a762-07ee586fa4d0" />
+
 
 ### Dashboard
 
-(Add screenshot)
+<img width="1860" height="830" alt="image" src="https://github.com/user-attachments/assets/95503255-7049-4f58-a2fc-292d6540a70b" />
+
 
 ## Future Improvements
 
