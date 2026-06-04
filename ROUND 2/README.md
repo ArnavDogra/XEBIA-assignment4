@@ -64,7 +64,8 @@ npm run dev
 
 ### Registration Page
 
-(Add screenshot)
+<img width="1496" height="810" alt="image" src="https://github.com/user-attachments/assets/3265d882-5e47-4c85-85a3-ea2b0743f1ff" />
+
 
 ### Login Page
 
